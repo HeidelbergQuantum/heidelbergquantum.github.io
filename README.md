@@ -1,1 +1,1 @@
-Website code for the Heidelberg Quantum Computing Club
+Page for heidelberg quantum computing club website
