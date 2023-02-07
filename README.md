@@ -1,1 +1,1 @@
-Page for heidelberg quantum computing club website
+Page for heidelberg quantum computing group website
