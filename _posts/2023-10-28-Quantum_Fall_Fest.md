@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fourth meeting 
-subtitle: 14th of November at 5pm - Seminar room 12 Mathematikon 
+title: Qiskit Fall Fest Event!  
+subtitle: 14th of November at 5pm - Seminar Room 12, Mathematikon 
 comments: true
 ---
 
