@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fourth meeting (Change of location)
+title: Fourth meeting 
 subtitle: 17th of April
 comments: true
 ---
