@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Meeting with new professor of QC
-subtitle: 21st of November at 4pm - INF 229, outdoors since doors locked
+title: Talk with the new professor of Quantum Computing
+subtitle: 21st of November at 4pm - INF 229
 comments: true
 ---
 
