@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Organized Quantum Computing Conference in Heidelberg
-subtitle: Amazing first achievement! 
+subtitle: Thanks for all the hard work! 
 comments: true
 ---
 
