@@ -21,6 +21,7 @@ author: Daniel Bultrini
 
 navbar-links:
   About: "about"
+  Entangled: "entangled"
   FallFest: "FallFest"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
